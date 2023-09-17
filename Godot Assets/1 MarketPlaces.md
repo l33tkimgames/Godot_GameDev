@@ -1,0 +1,10 @@
+# Marketplaces
+1. [Godot Asset Library](https://godotengine.org/asset-library/asset)
+2. [Godot Assets](https://godotassets.io/)
+3. [Godot Asset Store](https://godotassetstore.org/)
+4. [Godot Asset Library](https://godotassetlibrary.com/)
+5. [Godot Marketplace](https://godotmarketplace.com/)
+6. [Godot XC](https://godotxc.com/shop/)
+7. [Itch.io - Godot](https://itch.io/game-assets/free/tag-godot)
+8. [Godot Shaders](https://godotshaders.com/)
+	+ [YouTube Overview](https://www.youtube.com/watch?v=aYvsr4Z_8t8)
