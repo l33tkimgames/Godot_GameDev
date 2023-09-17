@@ -10,8 +10,27 @@
 	+ Create a reference or link to something when the game starts
 	+ Example:
 	```python
-# (it's acutally gdscript, but using python colors for this codeblock)
+# this is gdscript, but using python colors in this codeblock
 var star_scene = preload("res://Loops/Star.tscn")
+```
+
+* `_physics_process(delta)`
+	* Game engines like consistently for physics (uses a consistent tick rate) since frame rate usually isn't consistent
+		* Use the `_physics_process(delta)` function
+			* This function gets called at a fixed rate per second
+			* Instead of the `_process(delta)` which is once per frame
+---
+### Get Node Tree in Scene
++ `get_tree()` - built-in method that allows you to obtain a reference to the game's global scene tree
+	+ Not an actual nature tree (had previous confusion is a scene where a player collides with a tree)
+
+---
+### Restart / Reload a Scene
++ `.reload_current_scene` - reloads the scene:
++ Reload the current scene by grabbing the scene tree:
+```python
+# actually gdscript, just using python md colors in this codeblock
+get_tree().reload_current_scene()
 ```
 
 ---
@@ -27,14 +46,14 @@ var star_scene = preload("res://Loops/Star.tscn")
 
 + `randi_range()` - to get random integer
 ```python
-# (it's acutally gdscript, but using python colors for this codeblock)
+# this is gdscript, but using python colors in this codeblock
 star.position.x = randi_range(-280, 280)
 star.position.y = randi_range(-150, 150)
 ```
  
 +  `randf_range()` - to get random float
 ```python
-# (it's acutally gdscript, but using python colors for this codeblock)
+# this is gdscript, but using python colors in this codeblock
 var star_size = randf_range(0.5, 1.0)
 ```
 

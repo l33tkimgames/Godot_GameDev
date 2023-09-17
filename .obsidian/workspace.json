@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Functions for Godot.md",
+                "file": "Education/Educational Courses.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Functions for Godot.md",
+                "file": "Education/Educational Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Functions for Godot.md",
+                "file": "Education/Educational Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Functions for Godot.md"
+                "file": "Education/Educational Courses.md"
               }
             }
           }
@@ -159,19 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66c59058937b9081",
+  "active": "6016e7f65b37272b",
   "lastOpenFiles": [
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Star Generate.md",
+    "Education/Zenva/Turn Based RPG Tutorial",
     "Useful Godot Stuff.md",
     "Code Functions for Godot.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Balloon Popper.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Loops.md",
+    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Collision.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/8 - Physics.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/1 - Nodes General.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/2 - 3D Nodes and Stuff.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/3 - Materials.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/4 - Lights.md",
+    "Education/Zenva/1 - Intro to Godot 4 GameDev/1 - Nodes General.md",
+    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Loops.md",
+    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Star Generate.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/5 - Vectors.md",
+    "Education/Zenva/1 - Intro to Godot 4 GameDev/4 - Lights.md",
+    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Balloon Popper.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/6 - Signals.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/7 - UI Nodes and Stuff.md",
     "Markdown Cheatsheet.md",
@@ -191,8 +193,6 @@
     "Godot Assets/Testing and Debugging.md",
     "Godot Assets/Shaders.md",
     "Godot Assets/Saving and Loading.md",
-    "Godot Assets/Templates and Frameworks.md",
-    "Godot Assets/Frameworks.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev",
     "Education/Zenva",
     "Education",

@@ -16,9 +16,15 @@
 
 ## <span style="color:tomato;">MeshInstance3D</span>
 * The actual 3D object
+* Can often be see nested under another node like the <span style="color:tomato;">RigidBody3D</span> 
+	* So in that case, <span style="color:tomato;">MeshInstance3D</span> is the 3D character model
 * When creating a <span style="color:tomato;">MeshInstance3D</span> you can select the `Mesh` in the `Inspector`
 * You can set the mesh shape if you just want a shape
 + Can put this under <span style="color:tomato;">Area3D</span> if you want this to be interactable
+
+## <span style="color:tomato;">StaticBody3D</span>
+* Useful for things like floors and walls
+* Typically make <span style="color:tomato;">MeshInstance3D</span> a child node of a <span style="color:tomato;">StaticBody3D</span>
 
 ## <span style="color:tomato;">CollisionShape3D</span>
 + Can select of collision `Shape`
@@ -43,6 +49,15 @@
 * Makes objects be affected by physics and make object INTERACT with the physics engine
 	* [[8 - Physics]]
 * Often used for things like **CHARACTERS**
+* You have the `Physics Material Override`
+	* Change the physics properties (friction, bounce, etc.)
++ If a <span style="color:tomato;">RigidBody3D</span> needs to be able to DETECT a COLLISION,
+	+ make sure to enable `Contact Monitor` from the `Inspector` window
+	+ Such as using the `body_entered()` signal 
+		+ Triggers the `_on_body_entered(body)` function
+			+ in the script attached to the respective <span style="color:tomato;">RigidBody3D</span> node
+	+ Can control `Max Contacs Reported` to control how many collisions can be reported at once (good if a swarm can cause damage, which limits damage)
+
 
 - `RigidBody3D` is a node used for simulating physics behavior and movement of 3D objects.
 - It is used for objects that need to INTERACT with the physics engine, respond to forces (e.g., gravity, impulses), and simulate realistic physics behavior, such as bouncing, rolling, or falling.
@@ -62,10 +77,25 @@
 ## <span style="color:tomato;">Light/Lighting</span>
 [[4 - Lights]]
 
+## <span style="color:tomato;">World</span> <span style="color:aqua;">Environment</span>
++ Let's you define things like:
+	+ Background color
+	+ Ambient light
+	+ Glowing
+	+ Fog
+	+ Volumetric Fog
++ Can create / drag and drop an Environment Property
++ `Background`
+	+ `Mode`
+		+ Clear Color
+		+ Custom Color
+		+ Sky
+		+ Canvas
+		+ Keep
+		+ Camera Feed
+
 
 ## <span style="color:tomato;">StandardMaterial3D</span>
 [[3 - Materials]]
-
-
 
 
