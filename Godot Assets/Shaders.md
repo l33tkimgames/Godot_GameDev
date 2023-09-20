@@ -12,3 +12,4 @@
 + [Stylized Water Shader](https://godotshaders.com/shader/stylized-water-shader/)
 + [Boujie Water Shader](https://godotengine.org/asset-library/asset/2070)
 * [Outline - Draw Style](https://qbieshay.itch.io/multipass-sketchy-outline)
+* [Dither Shader](https://sambigos.itch.io/godot-dither-shader)

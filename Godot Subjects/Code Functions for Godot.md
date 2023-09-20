@@ -6,6 +6,12 @@
 	* It also allows different nodes that use this script to have different values of the same variable
 	* Also allows us to not set a variable and let the user drag and drop the relevant object
 
++ `@export var things : Array[TypeOfThing]`
+	+ If you are using exports for an array, and you only want certain things to be able to go in the array, you can use this syntax in Godot 4
+	+ `TypeOfThing` is the `class_name` you give (somewhere near the top, usually) to a script you have attached to a packedscene or some other resource. 
+	+ Then, you can't screw it up later on and don't have to rely on comments inside your code to remind you what should go there.
+	+ Instead, it will enforce the rule that ONLY `TypeOfThing` can be added to that array.
+
 + `preload()`
 	+ Create a reference or link to something when the game starts
 	+ Example:

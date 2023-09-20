@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing & Publisher/Publisher.md",
+                "file": "Godot Subjects/2D in 3D World.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing & Publisher/Publisher.md",
+                "file": "Godot Subjects/2D in 3D World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing & Publisher/Publisher.md",
+                "file": "Godot Subjects/2D in 3D World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing & Publisher/Publisher.md"
+                "file": "Godot Subjects/2D in 3D World.md"
               }
             }
           }
@@ -161,44 +161,45 @@
   },
   "active": "66c59058937b9081",
   "lastOpenFiles": [
+    "Markdown Cheatsheet.md",
+    "Godot Subjects/2D in 3D World.md",
+    "Godot Assets/UI.md",
+    "Godot Assets/Saving and Loading.md",
+    "Godot Assets/Shaders.md",
+    "Godot Assets/AI or Behavior.md",
+    "Godot Assets/Frameworks.md",
+    "Godot Assets/Controller Input.md",
+    "Godot Assets/Cameras.md",
+    "Godot Assets/Dialogue.md",
+    "Godot Assets/Code.md",
+    "Godot Assets/Animations.md",
+    "Godot Assets/Editor.md",
+    "Godot Assets/Effects.md",
+    "Godot Subjects/Useful Godot Stuff.md",
+    "Godot Subjects/Rust.md",
+    "Play Testing.md",
+    "Tools/VROID.md",
+    "Godot Subjects/Code Functions for Godot.md",
+    "Marketing & Publisher/Publisher.md",
+    "Godot Subjects/Hotkeys.md",
+    "Godot Subjects/World Building.md",
+    "Godot Subjects",
     "Marketing & Publisher/Marketing.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Star Generate.md",
     "Marketing & Publisher/imgs/icon.png",
     "Marketing & Publisher/imgs",
     "Marketing & Publisher/thumbnails.md",
-    "Marketing & Publisher/Publisher.md",
     "Marketing & Publisher",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Loops.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Collision.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Balloon Popper.md",
     "Education/Zenva/Turn Based RPG Tutorial",
-    "Useful Godot Stuff.md",
-    "Code Functions for Godot.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/8 - Physics.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/2 - 3D Nodes and Stuff.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/3 - Materials.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/1 - Nodes General.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/5 - Vectors.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/4 - Lights.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/6 - Signals.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/7 - UI Nodes and Stuff.md",
-    "Markdown Cheatsheet.md",
-    "Hotkeys.md",
-    "Tools/Drag and Drop Autorig 3D Model.md",
     "Tools",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Education/Educational Courses.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code",
     "Education/Zenva/2 - 4 Mini-Projects in Godot 4",
-    "Godot Assets/Godot Assets.md",
-    "Godot Assets/Untitled.md",
-    "VROID.md",
-    "Godot Assets/Cameras.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev",
     "Education/Zenva",
-    "Education",
-    "Godot Assets"
+    "Education"
   ]
 }

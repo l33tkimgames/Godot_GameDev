@@ -26,6 +26,8 @@
 	+ [Publishing Contract](https://docs.google.com/document/d/1j8m52_EiLKvyQAM2fkibjmokYxxJI-w7--Kq95Ta8iM/edit?ref=godotes.com)
 	+ Publishes in Switch and markets
 + Raw Fury
++ Fellow Traveler
++ Freedom Games
 
 ### Godot list of providers for consoles:
 - [Lone Wolf Technology](https://www.lonewolftechnology.com/) offers Switch and PS4 porting and publishing of Godot games.

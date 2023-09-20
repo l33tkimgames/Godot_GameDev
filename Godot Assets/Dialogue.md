@@ -7,3 +7,6 @@
 	+ [YouTube Overview](https://www.youtube.com/watch?v=k4v7XIgxfxY)
 + [Godot Dialog System](https://github.com/Amberlim/GodotDialogSystem)
 	+ [YouTube Overview](https://www.youtube.com/watch?v=QCySgbADhEA)
+
+
+[GUI Translation Demo](https://godotengine.org/asset-library/asset/134) - A demo showing how Godot seamlessly enables the use of localized resources and texts.

@@ -1,5 +1,5 @@
 ### When a node is selected
-* Press `s` (or was it `r`?) to scale it (hold `Shift` to it' scales symmetrically)
+* Press `r` to scale it (hold `Shift` to it' scales symmetrically)
 * Press `e` to rotate (hold `Ctrl` to it snaps)
 * `Ctrl+d` to duplicate
 

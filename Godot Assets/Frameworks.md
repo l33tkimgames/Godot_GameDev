@@ -4,3 +4,5 @@
 * [Skelereams](https://github.com/SlashScreen/skelerealms) - An open world RPG framework for Godot 4
 
 
++ [Puzzle Dependencies](https://github.com/nathanhoad/godot_puzzle_dependencies)
+

@@ -1,10 +1,11 @@
+[Unity -> Godot](https://www.applovin.com/blog/migrating-from-unity-to-other-game-engines/) <-- visit again
++ [UniFree Tool](https://github.com/ProjectUnifree/unifree)
 
  * Access the root node
  ```python
  # Actually gdscript, but using python colors for this codeblock
       get_node("/root/[NAME_OF_ROOT_NODE]")
  ```
-
 
 * Resources are assets in Godot
 	* `Right-Click` -> `New` -> `Resource`
@@ -55,6 +56,14 @@
 	* `Right-Click` -> `New Inherited Scene`
 	* This will make a new scene for it and I can save it as a `.tscn`
 	* [YouTube Reference](https://www.youtube.com/watch?v=AoiRvmSfGOo)
+
+
+# Pixel Tools
+
+### Aesprite Animatione
+
+* Some time ago on the GameFromScratch YouTube channel there was a YouTube video about the plugin [Aseprite Animation Importers](https://youtu.be/FPtJ1fgjQSg "https://youtu.be/FPtJ1fgjQSg") for Godot.  
+	* The author of this plugin, introduced a more [advanced plugin](https://discord.com/channels/245092069415190528/640547771790917636/1138108258469556334)
 
 
 
