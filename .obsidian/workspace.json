@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot Assets/Frameworks.md",
+                "file": "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot Assets/Frameworks.md",
+                "file": "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot Assets/Frameworks.md",
+                "file": "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot Assets/Frameworks.md"
+                "file": "Godot Subjects/Code Function for Godot/Code Functions for Godot.md"
               }
             }
           }
@@ -161,15 +161,22 @@
   },
   "active": "66c59058937b9081",
   "lastOpenFiles": [
-    "Godot Assets/Godot Assets.md",
+    "Godot Subjects/2D in 3D World/2D in 3D World.md",
+    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Balloon Popper.md",
+    "Markdown Cheatsheet.md",
+    "Godot Subjects/2D in 3D World/imgs/2d_on_3D_Sprite2D-2.png",
+    "Godot Subjects/2D in 3D World/imgs/2d_on_3D_Sprite2D.png",
+    "Godot Subjects/2D in 3D World/imgs",
+    "Godot Subjects/2D in 3D World",
+    "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
+    "Godot Subjects/Code Function for Godot/Godot 3 to 4.md",
+    "Godot Subjects/Code Function for Godot",
     "Godot Assets/Frameworks.md",
-    "Godot Subjects/Code Functions for Godot.md",
+    "Godot Assets/Godot Assets.md",
     "Godot Subjects/UI.md",
-    "Godot Subjects/2D in 3D World.md",
     "Godot Subjects/Useful Godot Stuff.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/7 - UI Nodes and Stuff.md",
     "Godot Assets/Code.md",
-    "Markdown Cheatsheet.md",
     "Godot Assets/UI.md",
     "Godot Assets/Saving and Loading.md",
     "Godot Assets/Shaders.md",
@@ -184,10 +191,7 @@
     "Play Testing.md",
     "Tools/VROID.md",
     "Marketing & Publisher/Publisher.md",
-    "Godot Subjects/Hotkeys.md",
-    "Godot Subjects/World Building.md",
     "Godot Subjects",
-    "Marketing & Publisher/Marketing.md",
     "Marketing & Publisher/imgs/icon.png",
     "Marketing & Publisher/imgs",
     "Marketing & Publisher",
@@ -197,9 +201,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code",
-    "Education/Zenva/2 - 4 Mini-Projects in Godot 4",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev",
-    "Education/Zenva",
-    "Education"
+    "Education/Zenva/2 - 4 Mini-Projects in Godot 4"
   ]
 }

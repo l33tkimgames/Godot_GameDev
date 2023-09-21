@@ -8,7 +8,7 @@
 |  | |
 | ----------- | ----------- | ----------- | 
 | <span style="color:powderblue;">powderblue</span> | <span style="color:aqua;">aqua</span> | <span style="color:aquamarine;">aquamarine</span> |
-| <span style="color:cadetblue;">cadetblue</span> | <span style="color:RoyalBlue;">RoyalBlue</span> |<span style="color:SteelBlue;">SteelBlue</span> |
+| <span style="color:cadetblue;">cadetblue</span> | <span style="color:RoyalBlue;">RoyalBlue</span> | <span style="color:SteelBlue;">SteelBlue</span> |
 | <span style="color:HotPink;">HotPink</span> | <span style="color:DarkSalmon;">DarkSalmon</span> | <span style="color:blueviolet;">blueviolet</span> | <span style="color:Plum;">Plum</span> |
 | <span style="color:tomato;">tomato</span> | <span style="color:FireBrick;">FireBrick</span> |<span style="color:Orange;">Orange</span> |
 | <span style="color:Gold;">Gold</span> | <span style="color:chocolate;">chocolate</span> | <span style="color:burlywood;">burlywood</span> |
