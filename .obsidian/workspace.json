@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot Subjects/2D in 3D World.md",
+                "file": "Godot Assets/Frameworks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot Subjects/2D in 3D World.md",
+                "file": "Godot Assets/Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot Subjects/2D in 3D World.md",
+                "file": "Godot Assets/Frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot Subjects/2D in 3D World.md"
+                "file": "Godot Assets/Frameworks.md"
               }
             }
           }
@@ -161,36 +161,36 @@
   },
   "active": "66c59058937b9081",
   "lastOpenFiles": [
-    "Markdown Cheatsheet.md",
+    "Godot Assets/Godot Assets.md",
+    "Godot Assets/Frameworks.md",
+    "Godot Subjects/Code Functions for Godot.md",
+    "Godot Subjects/UI.md",
     "Godot Subjects/2D in 3D World.md",
+    "Godot Subjects/Useful Godot Stuff.md",
+    "Education/Zenva/1 - Intro to Godot 4 GameDev/7 - UI Nodes and Stuff.md",
+    "Godot Assets/Code.md",
+    "Markdown Cheatsheet.md",
     "Godot Assets/UI.md",
     "Godot Assets/Saving and Loading.md",
     "Godot Assets/Shaders.md",
     "Godot Assets/AI or Behavior.md",
-    "Godot Assets/Frameworks.md",
     "Godot Assets/Controller Input.md",
     "Godot Assets/Cameras.md",
     "Godot Assets/Dialogue.md",
-    "Godot Assets/Code.md",
     "Godot Assets/Animations.md",
     "Godot Assets/Editor.md",
     "Godot Assets/Effects.md",
-    "Godot Subjects/Useful Godot Stuff.md",
     "Godot Subjects/Rust.md",
     "Play Testing.md",
     "Tools/VROID.md",
-    "Godot Subjects/Code Functions for Godot.md",
     "Marketing & Publisher/Publisher.md",
     "Godot Subjects/Hotkeys.md",
     "Godot Subjects/World Building.md",
     "Godot Subjects",
     "Marketing & Publisher/Marketing.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Star Generate.md",
     "Marketing & Publisher/imgs/icon.png",
     "Marketing & Publisher/imgs",
-    "Marketing & Publisher/thumbnails.md",
     "Marketing & Publisher",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Loops.md",
     "Education/Zenva/Turn Based RPG Tutorial",
     "Tools",
     "Untitled.canvas",

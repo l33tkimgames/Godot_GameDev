@@ -1,16 +1,35 @@
 #code 
 
++ When in the `Scene` Window, you can
+	+ Right-Click a Node
+	+ Select `% Access a Unique Name`
+	+ Now you can access this variable in code in a way that's unique (instead of hard coded drag & drop)
 
-* `@export var [VAR_NAME] : [VAR_TYPE]`
-	* `@export` allows the variable to be modifiable from the UI
-	* It also allows different nodes that use this script to have different values of the same variable
-	* Also allows us to not set a variable and let the user drag and drop the relevant object
++ `is_instance_valid()` - Do this instead of checking for `null`
+	+ [YouTube Reference](https://www.youtube.com/watch?v=NpoYYJyWWgU)
+	+ Example
+	```python
+	# actually gdscript, but using python colors for codeblock
+	
+	@onready var furcifer = $Furcifer
+	func _on_timer_timeout():
+		if is_instance_valid(furciver):
+	```
+
++ If you make to make sure tween pauses correctly, do
+	+ `tween = get_tree().create_tween()`
+		+ Don't do: `tween = create_tween()`
 
 + `@export var things : Array[TypeOfThing]`
 	+ If you are using exports for an array, and you only want certain things to be able to go in the array, you can use this syntax in Godot 4
 	+ `TypeOfThing` is the `class_name` you give (somewhere near the top, usually) to a script you have attached to a packedscene or some other resource. 
 	+ Then, you can't screw it up later on and don't have to rely on comments inside your code to remind you what should go there.
 	+ Instead, it will enforce the rule that ONLY `TypeOfThing` can be added to that array.
+
+* `@export var [VAR_NAME] : [VAR_TYPE]`
+	* `@export` allows the variable to be modifiable from the UI
+	* It also allows different nodes that use this script to have different values of the same variable
+	* Also allows us to not set a variable and let the user drag and drop the relevant object
 
 + `preload()`
 	+ Create a reference or link to something when the game starts
@@ -65,5 +84,9 @@ var star_size = randf_range(0.5, 1.0)
 
 ---
 
-
+# VSCode Extension
++ the `godot-tools` extension in VSCode and connect to godot's language server
+	+ Default looks at port 6008
+	+ Godot 4 uses 6005
+		+ you need to go to extension settings for the godot extension, paste the absolute path for the godot version executable you are using, and also the port 6005
 
