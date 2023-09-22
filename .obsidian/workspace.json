@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "370b08a04d7ab8cf",
+            "id": "66c59058937b9081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Balloon Popper.md",
+                "file": "Godot Assets/Dialogue/Dialogue.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "66c59058937b9081",
+            "id": "de777fe7bca70f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
+                "file": "1_Framework/Code Nomenclature.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
+                "file": "Godot Assets/Dialogue/Dialogue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
+                "file": "Godot Assets/Dialogue/Dialogue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot Subjects/Code Function for Godot/Code Functions for Godot.md"
+                "file": "Godot Assets/Dialogue/Dialogue.md"
               }
             }
           }
@@ -161,46 +160,48 @@
   },
   "active": "66c59058937b9081",
   "lastOpenFiles": [
-    "Godot Subjects/2D in 3D World/2D in 3D World.md",
+    "Godot Assets/Dialogue/CameraShakeEvent.zip",
+    "Godot Assets/Dialogue/imgs/dialogic_CameraShakeEvent.png",
+    "Godot Assets/Dialogue/imgs",
+    "Godot Assets/Dialogue",
+    "Godot Assets/Code.md",
+    "1_Framework/Code Nomenclature.md",
+    "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Balloon Popper.md",
     "Markdown Cheatsheet.md",
+    "1_Framework/1_1_RPG_Framework",
+    "1_Framework",
+    "Godot Assets/Optimize.md",
+    "Godot Assets/Frameworks.md",
+    "Godot Subjects/2D in 3D World/2D in 3D World.md",
     "Godot Subjects/2D in 3D World/imgs/2d_on_3D_Sprite2D-2.png",
     "Godot Subjects/2D in 3D World/imgs/2d_on_3D_Sprite2D.png",
     "Godot Subjects/2D in 3D World/imgs",
     "Godot Subjects/2D in 3D World",
-    "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
     "Godot Subjects/Code Function for Godot/Godot 3 to 4.md",
     "Godot Subjects/Code Function for Godot",
-    "Godot Assets/Frameworks.md",
     "Godot Assets/Godot Assets.md",
     "Godot Subjects/UI.md",
     "Godot Subjects/Useful Godot Stuff.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/7 - UI Nodes and Stuff.md",
-    "Godot Assets/Code.md",
     "Godot Assets/UI.md",
     "Godot Assets/Saving and Loading.md",
     "Godot Assets/Shaders.md",
     "Godot Assets/AI or Behavior.md",
     "Godot Assets/Controller Input.md",
     "Godot Assets/Cameras.md",
-    "Godot Assets/Dialogue.md",
+    "Godot Assets/Dialogue/Dialogue.md",
     "Godot Assets/Animations.md",
     "Godot Assets/Editor.md",
     "Godot Assets/Effects.md",
     "Godot Subjects/Rust.md",
     "Play Testing.md",
-    "Tools/VROID.md",
-    "Marketing & Publisher/Publisher.md",
     "Godot Subjects",
     "Marketing & Publisher/imgs/icon.png",
     "Marketing & Publisher/imgs",
     "Marketing & Publisher",
-    "Education/Zenva/Turn Based RPG Tutorial",
-    "Tools",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code",
-    "Education/Zenva/2 - 4 Mini-Projects in Godot 4"
+    "Untitled 1.canvas"
   ]
 }

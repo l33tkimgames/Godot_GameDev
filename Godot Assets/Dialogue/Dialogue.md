@@ -10,3 +10,9 @@
 
 
 [GUI Translation Demo](https://godotengine.org/asset-library/asset/134) - A demo showing how Godot seamlessly enables the use of localized resources and texts.
+
+# Dialogic Plugins
+![[dialogic_CameraShakeEvent.png]]
++ The `CameraShakeEvent.zip` should be in this folder
+	+ Right-Click `Dialogue` folder
+	+ Click `Show in system explorer`

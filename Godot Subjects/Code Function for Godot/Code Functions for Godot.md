@@ -43,11 +43,31 @@ var star_scene = preload("res://Loops/Star.tscn")
 			* Instead of the <span style="color:HotPink;">_physics_process(delta)</span> which is once per frame
 ---
 # Get Node Tree in Scene
+
 + `get_tree()` - built-in method that allows you to obtain a reference to the game's global scene tree
 	+ Not an actual nature tree (had previous confusion is a scene where a player collides with a tree)
 
 ---
+# Get <span style="color:Gold;">Resource</span> from <span style="color:Gold;">FileSystem</span> Window
 
++ `preload()` - this function will read the file from disk and load it at compile-time. As a result, you cannot call `preload` with a variable path: you need to use a constant string
+```python
+# this is gdscript, but using python colors in this codeblock
+func _ready():
+    # Godot loads the resource at compile-time
+    var imported_resource = preload("res://robi.png")
+    get_node("sprite").texture = imported_resource
+```
++ `load()` - just load the resource
+```python
+# this is gdscript, but using python colors in this codeblock
+func _ready():
+    # Godot loads the Resource when it reads this very line.
+    var imported_resource = load("res://robi.png")
+    $sprite.texture = imported_resource
+```
+
+---
 # Pause
 
 ### What does this line of code do: `await get_tree().create_timer(0.5).timeout`
@@ -55,6 +75,7 @@ var star_scene = preload("res://Loops/Star.tscn")
 
 ---
 # Restart / Reload a Scene
+
 + `.reload_current_scene` - reloads the scene:
 + Reload the current scene by grabbing the scene tree:
 ```python
@@ -64,7 +85,7 @@ get_tree().reload_current_scene()
 
 ---
 
-# References - No Hardcoded Paths
+# <span style="color:HotPink;">Reference</span>s - No Hardcoded Paths
 
 ## Within a Scene
 + When in the <span style="color:Gold;">Scene</span> Window, you can
@@ -116,14 +137,14 @@ Keep in mind that UIDs are particularly useful for referencing resources or node
 ---
 # Random
 
-+ `randi_range()` - to get random integer
+### <span style="color:HotPink;">randi_range()</span> - to get random integer
 ```python
 # this is gdscript, but using python colors in this codeblock
 star.position.x = randi_range(-280, 280)
 star.position.y = randi_range(-150, 150)
 ```
  
-+  `randf_range()` - to get random float
+### <span style="color:HotPink;">randf_range()</span> - to get random float
 ```python
 # this is gdscript, but using python colors in this codeblock
 var star_size = randf_range(0.5, 1.0)
@@ -131,10 +152,22 @@ var star_size = randf_range(0.5, 1.0)
 
 ---
 
+
+# Resource Sharing
+
+## [In Godot 4.1](https://godotengine.org/article/godot-4-1-is-here/)
+Until now, in GDScript, you needed to use a resource or an autoload to share data between multiple instances of the same script.
+
+Thanks to [George Marques](https://github.com/vnen), you can now create and use static variables instead. Static variables store data on the class instead of each instance, so they’re shared between every instance of the class.
+
+To make a variable static, add the `static` keyword in front of a variable defined at the top of your script.
+
+---
 # Signals
 
 ## Subscribe to a Signal NOT in a Scene w/ UID
-* Reference: `References - No Hardcoded Paths -> Outside a Scene`
+
++ `References - No Hardcoded Paths -> Outside a Scene` (look above for more detail about <span style="color:HotPink;">Reference</span>s)
 ```python
 # this is gdscript, but using python colors in this codeblock
 
@@ -168,6 +201,7 @@ In this code:
 3. If the resource cannot be loaded (i.e., it doesn't exist or there's an issue with the UID), we handle the situation by printing an error message.
 4. This code should effectively connect to the signal of the target node specified by its UID.
 ## Subscribe to Signal in a Scene
+
 ```python
 # this is gdscript, but using python colors in this codeblock
 
