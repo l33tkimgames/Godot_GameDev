@@ -17,6 +17,11 @@
 	* Change `Canvas Textures -> Default Texutre Filter` to `Nearest`
 	* Typically you do this for Pixel art, but use `Linear` for higher definition images
 
+# UI
+
++ When observing a UI node you get new green options up top (right below the scene tabs)
+	+ If you have `Anchor Preset` you can auto snap your UI node into the part of the screen you want it to be
+
 # Unity  -> Blender -> Godot
 1. [Exporting Characters and Animations From Mixamo To Godot4!](https://www.youtube.com/watch?v=AoiRvmSfGOo)
 2. [Godot 4 Gets Blender Support! | Lets Look At Godot 4.0](https://www.youtube.com/watch?v=AoiRvmSfGOo)

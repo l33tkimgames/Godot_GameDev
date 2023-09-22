@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot Assets/Dialogue/Dialogue.md",
+                "file": "Godot Subjects/Useful Godot Stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot Assets/Dialogue/Dialogue.md",
+                "file": "Godot Subjects/Useful Godot Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot Assets/Dialogue/Dialogue.md",
+                "file": "Godot Subjects/Useful Godot Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot Assets/Dialogue/Dialogue.md"
+                "file": "Godot Subjects/Useful Godot Stuff.md"
               }
             }
           }
@@ -160,13 +160,19 @@
   },
   "active": "66c59058937b9081",
   "lastOpenFiles": [
+    "Godot Subjects/Rust.md",
+    "Godot Subjects/Code Function for Godot/Globals (top of script stuff).md",
+    "Godot Subjects/Code Function for Godot/1 - Code Functions for Godot.md",
+    "Godot Subjects/Code Function for Godot/Animations.md",
+    "Godot Subjects/Code Function for Godot/Null Check Without =.md",
+    "Godot Assets/Dialogue/Dialogue.md",
+    "Godot Assets/Dialogue/imgs/dialogic_CameraShake_CustomEvent.PNG",
     "Godot Assets/Dialogue/CameraShakeEvent.zip",
     "Godot Assets/Dialogue/imgs/dialogic_CameraShakeEvent.png",
     "Godot Assets/Dialogue/imgs",
     "Godot Assets/Dialogue",
     "Godot Assets/Code.md",
     "1_Framework/Code Nomenclature.md",
-    "Godot Subjects/Code Function for Godot/Code Functions for Godot.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Balloon Popper.md",
     "Markdown Cheatsheet.md",
     "1_Framework/1_1_RPG_Framework",
@@ -190,16 +196,11 @@
     "Godot Assets/AI or Behavior.md",
     "Godot Assets/Controller Input.md",
     "Godot Assets/Cameras.md",
-    "Godot Assets/Dialogue/Dialogue.md",
     "Godot Assets/Animations.md",
     "Godot Assets/Editor.md",
-    "Godot Assets/Effects.md",
-    "Godot Subjects/Rust.md",
-    "Play Testing.md",
     "Godot Subjects",
     "Marketing & Publisher/imgs/icon.png",
     "Marketing & Publisher/imgs",
-    "Marketing & Publisher",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
