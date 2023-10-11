@@ -1,6 +1,7 @@
 [Unity -> Godot](https://www.applovin.com/blog/migrating-from-unity-to-other-game-engines/) <-- visit again
 + [UniFree Tool](https://github.com/ProjectUnifree/unifree)
 
+
  * Access the root node
  ```python
  # Actually gdscript, but using python colors for this codeblock
@@ -74,3 +75,6 @@
 
 
 
+
+
+# CLOSE ALL SCENES BEFORE YOU START MOVING THINGS IN THE FILESYSTEM

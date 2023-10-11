@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot Subjects/Useful Godot Stuff.md",
+                "file": "1_Framework/Code Nomenclature.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 268.5
   },
   "right": {
     "id": "d78402324c4f8cca",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot Subjects/Useful Godot Stuff.md",
+                "file": "1_Framework/Code Nomenclature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot Subjects/Useful Godot Stuff.md",
+                "file": "1_Framework/Code Nomenclature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot Subjects/Useful Godot Stuff.md"
+                "file": "1_Framework/Code Nomenclature.md"
               }
             }
           }
@@ -160,11 +160,29 @@
   },
   "active": "66c59058937b9081",
   "lastOpenFiles": [
-    "Godot Subjects/Rust.md",
+    "1_Framework/Project Folder Structure/Signals_EventBuses/README.md",
+    "Godot Subjects/Code Function for Godot/Signals.md",
+    "1_Framework/Code Nomenclature.md",
+    "1_Framework/Project Folder Structure/Signals_EventBuses",
+    "1_Framework/Project Folder Structure",
+    "Godot Subjects/World Building.md",
+    "Godot Subjects/Useful Godot Stuff.md",
+    "Education/Zenva/Turn Based RPG Tutorial/Code Flow.canvas",
+    "Education/Educational Courses.md",
+    "Marketing & Publisher/YouTube.md",
+    "Marketing & Publisher/Marketing.md",
+    "Godot Subjects/Code Function for Godot/Null Check Without `==`.md",
+    "Godot Subjects/Code Function for Godot/Nodes.md",
+    "Godot Subjects/Code Function for Godot/Node Traversal.md",
+    "Godot Subjects/Code Function for Godot/Godot 3 to 4.md",
     "Godot Subjects/Code Function for Godot/Globals (top of script stuff).md",
-    "Godot Subjects/Code Function for Godot/1 - Code Functions for Godot.md",
     "Godot Subjects/Code Function for Godot/Animations.md",
-    "Godot Subjects/Code Function for Godot/Null Check Without =.md",
+    "Godot Subjects/Code Function for Godot/1 - Code Functions for Godot.md",
+    "Godot Subjects/Hotkeys.md",
+    "Godot Subjects/2D in 3D World/2D in 3D World.md",
+    "Godot Subjects/UI.md",
+    "Godot Subjects/Rust.md",
+    "Markdown Cheatsheet.md",
     "Godot Assets/Dialogue/Dialogue.md",
     "Godot Assets/Dialogue/imgs/dialogic_CameraShake_CustomEvent.PNG",
     "Godot Assets/Dialogue/CameraShakeEvent.zip",
@@ -172,36 +190,18 @@
     "Godot Assets/Dialogue/imgs",
     "Godot Assets/Dialogue",
     "Godot Assets/Code.md",
-    "1_Framework/Code Nomenclature.md",
     "Education/Zenva/1 - Intro to Godot 4 GameDev/Mini-Projects Source Code/Balloon Popper.md",
-    "Markdown Cheatsheet.md",
     "1_Framework/1_1_RPG_Framework",
     "1_Framework",
     "Godot Assets/Optimize.md",
     "Godot Assets/Frameworks.md",
-    "Godot Subjects/2D in 3D World/2D in 3D World.md",
     "Godot Subjects/2D in 3D World/imgs/2d_on_3D_Sprite2D-2.png",
     "Godot Subjects/2D in 3D World/imgs/2d_on_3D_Sprite2D.png",
     "Godot Subjects/2D in 3D World/imgs",
     "Godot Subjects/2D in 3D World",
-    "Godot Subjects/Code Function for Godot/Godot 3 to 4.md",
     "Godot Subjects/Code Function for Godot",
     "Godot Assets/Godot Assets.md",
-    "Godot Subjects/UI.md",
-    "Godot Subjects/Useful Godot Stuff.md",
-    "Education/Zenva/1 - Intro to Godot 4 GameDev/7 - UI Nodes and Stuff.md",
-    "Godot Assets/UI.md",
-    "Godot Assets/Saving and Loading.md",
-    "Godot Assets/Shaders.md",
-    "Godot Assets/AI or Behavior.md",
-    "Godot Assets/Controller Input.md",
-    "Godot Assets/Cameras.md",
-    "Godot Assets/Animations.md",
-    "Godot Assets/Editor.md",
-    "Godot Subjects",
     "Marketing & Publisher/imgs/icon.png",
-    "Marketing & Publisher/imgs",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

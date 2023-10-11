@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"5c79ffe531c5b14e","x":-340,"y":-240,"width":290,"height":60,"type":"text","text":"Button_RCombatAction.gd"},
+		{"id":"0e7da296431e8ba5","x":-335,"y":-160,"width":285,"height":60,"type":"text","text":"RCombatAction.gd"},
+		{"id":"43d2a066cf049eb7","x":-335,"y":-80,"width":285,"height":60,"type":"text","text":"RCombatAction.gd"},
+		{"id":"8f59656f52822c8e","x":-335,"y":0,"width":285,"height":60,"type":"text","text":"TurnBasedBattle.gd"},
+		{"id":"b2e03809996f5224","x":-335,"y":80,"width":285,"height":60,"type":"text","text":"VBox_RCombatAction_List.gd"}
+	],
+	"edges":[]
+}

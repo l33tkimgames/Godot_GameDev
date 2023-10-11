@@ -1,22 +1,23 @@
 #code 
 
-# Get Node Tree in Scene
+# Get <span style="color:Gold;">Node Tree</span> in <span style="color:Gold;">Scene</span>
 
-+ `get_tree()` - built-in method that allows you to obtain a reference to the game's global scene tree
-	+ Not an actual nature tree (had previous confusion is a scene where a player collides with a tree)
++ <span style="color:HotPink;">get_tree()</span> - built-in method that allows you to obtain a reference to the game's <span style="color:Gold;">global scene tree</span>
+	+ Not an actual nature tree (had previous confusion is a <span style="color:Gold;">scene</span> where a player collides with a tree)
 
 ---
 # Get <span style="color:Gold;">Resource</span> from <span style="color:Gold;">FileSystem</span> Window
 
-+ `preload()` - this function will read the file from disk and load it at compile-time. As a result, you cannot call `preload` with a variable path: you need to use a constant string
++ <span style="color:HotPink;">preload()</span> - this function will read the file from disk and load it at compile-time. As a result, you cannot call `preload` with a variable path: you need to use a constant string
 ```python
 # this is gdscript, but using python colors in this codeblock
+var imported_resource = preload("res://robi.png")
 func _ready():
     # Godot loads the resource at compile-time
-    var imported_resource = preload("res://robi.png")
     get_node("sprite").texture = imported_resource
 ```
-+ `load()` - just load the resource
+
++ <span style="color:HotPink;">load()</span> - just load the resource
 ```python
 # this is gdscript, but using python colors in this codeblock
 func _ready():
@@ -28,14 +29,14 @@ func _ready():
 ---
 # Pause
 
-### What does this line of code do: `await get_tree().create_timer(0.5).timeout`
+### What does this line of code do: <span style="color:HotPink;">await get_tree().create_timer(0.5).timeout</span>
 + It pauses the code for 0.5 seconds
 
 ---
-# Restart / Reload a Scene
+# Restart / Reload a <span style="color:Gold;">Scene</span>
 
-+ `.reload_current_scene` - reloads the scene:
-+ Reload the current scene by grabbing the scene tree:
++ <span style="color:HotPink;">.reload_current_scene()</span> - reloads the <span style="color:Gold;">scene</span>:
+	+ Reload the <span style="color:Gold;">current scene</span> by grabbing the <span style="color:Gold;">scene tree</span>:
 ```python
 # actually gdscript, just using python md colors in this codeblock
 get_tree().reload_current_scene()
@@ -43,7 +44,7 @@ get_tree().reload_current_scene()
 
 ---
 
-# <span style="color:HotPink;">Reference</span>s - No Hardcoded Paths
+# <span style="color:Gold;">Reference</span>s - No Hardcoded Paths
 
 ## Within a Scene
 + When in the <span style="color:Gold;">Scene</span> Window, you can
@@ -69,40 +70,40 @@ In Godot, use <span style="color:Gold;">UIDs (Unique Identifiers)</span> to refe
 var myResourceUID = "uid://da04133isku3q"
 ```
 
-3. **Load the Resource**: You can use the `load()` function to load the resource associated with the <span style="color:Gold;">UID</span>.
+3. **Load the Resource**: You can use the <span style="color:HotPink;">load()</span> function to load the resource associated with the <span style="color:Gold;">UID</span>.
 ```python
 # this is gdscript, but using python colors in this codeblock
 var myResource = load(myResourceUID)
 ```
-Now, `myResource` will contain the resource associated with the specified <span style="color:Gold;">UID</span>, whether it's a scene, texture, sound, or any other resource type.
+Now, <span style="color:HotPink;">myResource</span> will contain the resource associated with the specified <span style="color:Gold;">UID</span>, whether it's a scene, texture, sound, or any other resource type.
 
-4. **Use the Resource**: You can now use `myResource` in your script. For example, if it's a scene, you can instance it as a node:
+4. **Use the <strong><span style="color:Gold;">Resource</span></strong>**: You can now use <span style="color:HotPink;">myResource</span> in your script. For example, if it's a <span style="color:Gold;">scene</span>, you can instance it as a <span style="color:Gold;">node</span>:
 ```python
 # this is gdscript, but using python colors in this codeblock
 var instance = myResource.instance()
 ```
 
-Keep in mind that UIDs are particularly useful for referencing resources or nodes that might be dynamically created or moved within your project. They provide a stable reference even if the path or location of the resource changes. However, be cautious when using UIDs, as they won't automatically update if you change or delete the resource in the editor. It's essential to keep track of UIDs and ensure they remain valid in your project.
+Keep in mind that <span style="color:Gold;">UIDs</span> are particularly useful for referencing resources or nodes that might be dynamically created or moved within your project. They provide a stable reference even if the path or location of the resource changes. However, be cautious when using <span style="color:Gold;">UIDs</span>, as they won't automatically update if you change or delete the resource in the editor. It's essential to keep track of <span style="color:Gold;">UIDs</span> and ensure they remain valid in your project.
 
 ---
-# Destroy / Remove a Node
+# Destroy / Remove a <span style="color:Gold;">Node</span>
 
-+ `queue_free()`: destroys the current node and deallocates it
++ <span style="color:HotPink;">queue_free()</span>: destroys the current node and deallocates it
 
-+ `remove_child()`: is a subset of `queue_free()` and only "removes them from the world", without actually loosing their data
-	* `remove_child()` can be useful in some scenarios. For example, you might want to enter a house, but remember the state of the outside map: remove the map from the tree, add the house, but without destroying either of them. You can then swap nodes in and out.  
++ <span style="color:HotPink;">remove_child()</span>: is a subset of <span style="color:HotPink;">queue_free()</span> and only "removes them from the world", without actually loosing their data
+	* <span style="color:HotPink;">remove_child()</span> can be useful in some scenarios. For example, you might want to enter a house, but remember the state of the outside map: remove the map from the tree, add the house, but without destroying either of them. You can then swap nodes in and out.  
 
 ---
 # Random
 
-### <span style="color:HotPink;">randi_range()</span> - to get random integer
+**<strong><span style="color:HotPink;">randi_range()</span></strong> - to get random integer**
 ```python
 # this is gdscript, but using python colors in this codeblock
 star.position.x = randi_range(-280, 280)
 star.position.y = randi_range(-150, 150)
 ```
  
-### <span style="color:HotPink;">randf_range()</span> - to get random float
+**<strong><span style="color:HotPink;">randf_range()</span></strong> - to get random float**
 ```python
 # this is gdscript, but using python colors in this codeblock
 var star_size = randf_range(0.5, 1.0)
@@ -111,7 +112,7 @@ var star_size = randf_range(0.5, 1.0)
 ---
 
 
-# Resource Sharing
+# <span style="color:Gold;">Resource</span> Sharing
 
 ## [In Godot 4.1](https://godotengine.org/article/godot-4-1-is-here/)
 Until now, in GDScript, you needed to use a resource or an autoload to share data between multiple instances of the same script.
@@ -121,61 +122,6 @@ Thanks to [George Marques](https://github.com/vnen), you can now create and use 
 To make a variable static, add the `static` keyword in front of a variable defined at the top of your script.
 
 ---
-# Signals
-
-## Subscribe to a Signal NOT in a Scene w/ UID
-
-+ `References - No Hardcoded Paths -> Outside a Scene` (look above for more detail about <span style="color:HotPink;">Reference</span>s)
-```python
-# this is gdscript, but using python colors in this codeblock
-
-# Placeholder variables for the node that has signals 
-#   I want to subscirbe to. Referencing by FileSystem UID
-var turnBasedBattle_node_uid = "uid://abcd1234"
-var turnBasedBattle_resource = null
-var turnBasedBattle_reference = null
-
-# Called when the node enters the scene tree for the first time.
-func _ready():
-	# Load the target node using the UID
-	turnBasedBattle_resource = load(turnBasedBattle_node_uid)
-	
-	# Check if the target node exists
-	if turnBasedBattle_resource:
-		# Instantiate the resource
-		turnBasedBattle_reference = \
-			turnBasedBattle_resource.instantiate()
-		# Connect to the signal
-		turnBasedBattle_reference.signal_character_begin_turn.connect(
-				_on_signal_FUNCTION_NAME) # signal listern function name
-		print("signal_character_begin_turn connected")
-
-func _on_signal_FUNCTION_NAME(variable):
-	pass
-```
-In this code:
-1. We declare `target_node_uid` as a string variable and assign it the UID of the target node you want to connect to. Replace `"uid://da04133isku3q"` with the actual UID you want to use.
-2. In the `_ready()` function, we load the target resource using `load()` based on the UID. If the resource can be loaded (i.e., it exists), we instance it to create the target node and then connect to its signal.
-3. If the resource cannot be loaded (i.e., it doesn't exist or there's an issue with the UID), we handle the situation by printing an error message.
-4. This code should effectively connect to the signal of the target node specified by its UID.
-## Subscribe to Signal in a Scene
-
-```python
-# this is gdscript, but using python colors in this codeblock
-
-var target_node = null # This will be the actual target node if it exists
-
-func _ready():
-    # Check if the target node exists in the scene
-    if has_node("TargetNode"):
-        target_node = %NODE_UNIQUE_NAME
-        target_node.connect("signal_name", self, "_on_signal_name")
-    else:
-        print("TargetNode does not exist in the scene.")
-
-func _on_signal_name(param1, param2):
-    pass
-```
 
 ---
 # VSCode Extension
@@ -183,4 +129,5 @@ func _on_signal_name(param1, param2):
 	+ Default looks at port 6008
 	+ Godot 4 uses 6005
 		+ you need to go to extension settings for the godot extension, paste the absolute path for the godot version executable you are using, and also the port 6005
+
 
