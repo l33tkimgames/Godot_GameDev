@@ -4,5 +4,4 @@
 [GUI Translation Demo](https://godotengine.org/asset-library/asset/134) - A demo showing how Godot seamlessly enables the use of localized resources and texts.
 
 
-
-
+[Godot Logo Pack: Splash Screens & Banners](https://zacksly.itch.io/godot-logo-pack)

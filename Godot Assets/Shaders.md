@@ -13,3 +13,13 @@
 + [Boujie Water Shader](https://godotengine.org/asset-library/asset/2070)
 * [Outline - Draw Style](https://qbieshay.itch.io/multipass-sketchy-outline)
 * [Dither Shader](https://sambigos.itch.io/godot-dither-shader)
+
+
++ [Multipass sketchy outline](https://qbieshay.itch.io/multipass-sketchy-outline)
++ [my Godot Shader or VFX](https://50tu.itch.io/my-godot-shader-or-vfx)
+	+ pageflip
+	+ wave
+
+
+
+
