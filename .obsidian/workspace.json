@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot Assets/Animations.md",
+                "file": "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot Assets/Animations.md",
+                "file": "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot Assets/Animations.md",
+                "file": "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot Assets/Animations.md"
+                "file": "Godot Subjects/Rust/2 - Integrating Bevy ECS.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "66c59058937b9081",
   "lastOpenFiles": [
+    "Godot Subjects/Rust/1 - Setup.md",
+    "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
+    "Godot Subjects/Rust/Rust.md",
+    "Godot Subjects/Rust",
+    "Markdown Cheatsheet.md",
+    "Godot Assets/Animations.md",
     "Godot Assets/AI or Behavior.md",
     "Godot Assets/3D Modeling and VROID.md",
     "Godot Assets/1 MarketPlaces.md",
     "Godot Assets/Dialogue/Dialogue.md",
-    "Markdown Cheatsheet.md",
     "Marketing & Publisher/Publisher.md",
     "Marketing & Publisher/Marketing.md",
     "Godot Assets/Templates and Frameworks.md",
@@ -173,10 +178,6 @@
     "Education/Educational Courses.md",
     "Marketing & Publisher/YouTube.md",
     "Godot Subjects/Code Function for Godot/Null Check Without `==`.md",
-    "Godot Subjects/Code Function for Godot/Nodes.md",
-    "Godot Subjects/Code Function for Godot/Node Traversal.md",
-    "Godot Subjects/Code Function for Godot/Godot 3 to 4.md",
-    "Godot Subjects/Code Function for Godot/Globals (top of script stuff).md",
     "Godot Assets/Dialogue/imgs/dialogic_CameraShake_CustomEvent.PNG",
     "Godot Assets/Dialogue/CameraShakeEvent.zip",
     "Godot Assets/Dialogue/imgs/dialogic_CameraShakeEvent.png",
@@ -188,7 +189,6 @@
     "Godot Subjects/2D in 3D World/imgs/2d_on_3D_Sprite2D.png",
     "Godot Subjects/2D in 3D World/imgs",
     "Godot Subjects/2D in 3D World",
-    "Godot Subjects/Code Function for Godot",
     "Marketing & Publisher/imgs/icon.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
