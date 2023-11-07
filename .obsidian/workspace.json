@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c424c287dd7a064",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6016e7f65b37272b",
+  "active": "8c424c287dd7a064",
   "lastOpenFiles": [
     "Godot Assets/Code and Tools.md",
     "Godot Assets/Cameras.md",
