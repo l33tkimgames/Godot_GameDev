@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
+                "file": "Marketing & Publisher/Publisher.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
+                "file": "Marketing & Publisher/Publisher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
+                "file": "Marketing & Publisher/Publisher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godot Subjects/Rust/2 - Integrating Bevy ECS.md"
+                "file": "Marketing & Publisher/Publisher.md"
               }
             }
           }
@@ -159,36 +158,36 @@
   },
   "active": "66c59058937b9081",
   "lastOpenFiles": [
-    "Godot Subjects/Rust/1 - Setup.md",
-    "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
-    "Godot Subjects/Rust/Rust.md",
-    "Godot Subjects/Rust",
-    "Markdown Cheatsheet.md",
+    "Tools/VROID.md",
+    "Godot Subjects/2D in 3D World/2D in 3D World.md",
+    "Godot Assets/Godot Assets.md",
+    "Godot Assets/Optimize.md",
+    "Godot Assets/Frameworks.md",
+    "Godot Assets/Effects.md",
+    "Godot Assets/Editor.md",
+    "Godot Assets/Controller Input.md",
+    "Godot Assets/Code and Tools.md",
+    "Godot Assets/Cameras.md",
     "Godot Assets/Animations.md",
     "Godot Assets/AI or Behavior.md",
     "Godot Assets/3D Modeling and VROID.md",
+    "Godot Subjects/Rust/2 - Integrating Bevy ECS.md",
+    "Godot Subjects/Rust/1 - Setup.md",
+    "Godot Subjects/Rust/Rust.md",
+    "Godot Subjects/Rust",
+    "Markdown Cheatsheet.md",
     "Godot Assets/1 MarketPlaces.md",
     "Godot Assets/Dialogue/Dialogue.md",
     "Marketing & Publisher/Publisher.md",
     "Marketing & Publisher/Marketing.md",
     "Godot Assets/Templates and Frameworks.md",
-    "Godot Assets/Code and Tools.md",
-    "Godot Assets/Cameras.md",
     "Godot Assets/UI.md",
     "Godot Assets/VFX.md",
     "Godot Assets/Shaders.md",
-    "Godot Assets/Optimize.md",
     "1_Framework/Code Nomenclature.md",
-    "1_Framework/Project Folder Structure/Signals_EventBuses/README.md",
-    "Godot Subjects/Code Function for Godot/Signals.md",
     "1_Framework/Project Folder Structure/Signals_EventBuses",
     "1_Framework/Project Folder Structure",
-    "Godot Subjects/World Building.md",
-    "Godot Subjects/Useful Godot Stuff.md",
     "Education/Zenva/Turn Based RPG Tutorial/Code Flow.canvas",
-    "Education/Educational Courses.md",
-    "Marketing & Publisher/YouTube.md",
-    "Godot Subjects/Code Function for Godot/Null Check Without `==`.md",
     "Godot Assets/Dialogue/imgs/dialogic_CameraShake_CustomEvent.PNG",
     "Godot Assets/Dialogue/CameraShakeEvent.zip",
     "Godot Assets/Dialogue/imgs/dialogic_CameraShakeEvent.png",

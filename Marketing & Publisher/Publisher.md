@@ -20,11 +20,17 @@
 
 ### Publishers
 * Serenity Forge
+* Kit9
++ D3PUBLISHER
++ [Pineapple Works](https://pineapple.works/)
+	+ Does porting to consoles
 * Humble Games
 * Maple Whispering Limited
 + [Gotm Publishing Program](https://gotm.io/about/gpp?ref=godotes.com)
 	+ [Publishing Contract](https://docs.google.com/document/d/1j8m52_EiLKvyQAM2fkibjmokYxxJI-w7--Kq95Ta8iM/edit?ref=godotes.com)
 	+ Publishes in Switch and markets
++ [Lone Wolf Technology](https://lonewolftechnology.com/)
+	+ Godot Porting
 + Raw Fury
 + Fellow Traveler
 + Freedom Games
