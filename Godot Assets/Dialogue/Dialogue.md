@@ -1,4 +1,5 @@
 + [Dialogic 2](https://github.com/coppolaemilio/dialogic)
++ [Theatre](https://godotengine.org/asset-library/asset/2332)
 + [Godot Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager)
 + [Diagraph](https://github.com/DaelonSuzuka/Diagraph)
 	+ I have a way of executing code before and after

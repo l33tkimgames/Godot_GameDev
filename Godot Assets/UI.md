@@ -5,3 +5,9 @@
 
 
 [Godot Logo Pack: Splash Screens & Banners](https://zacksly.itch.io/godot-logo-pack)
+
+
++ [ProgressBar 3D](https://godotengine.org/asset-library/asset/2842)
+
+
+---

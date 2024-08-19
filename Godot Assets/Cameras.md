@@ -4,4 +4,8 @@
 + [InterpolatedCamera3D add-on](https://github.com/godot-extended-libraries/godot-interpolated-camera3d)
 + [Advanced Movement System Godot (AMSG) Template](https://godotengine.org/asset-library/asset/1107)
 
++ [Overmind Camera System](https://github.com/VioletaSaravia/Overmind)
 
+
+
+---

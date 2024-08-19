@@ -5,7 +5,16 @@
 [Juicing Kit](https://pigdev.itch.io/juicing-kit)
 
 
-[Godot Community](https://godotcommunity.itch.io/app)
++ [Godot Community](https://godotcommunity.itch.io/app)
 
-[Godot Game Tools - GGT](https://viniguerrero.itch.io/godot-game-tools)
-+ Blender Add-On for Godot 4
++ [Godot Game Tools - GGT](https://viniguerrero.itch.io/godot-game-tools)
+	+ Blender Add-On for Godot 4
+
++ [State Charts | State Machine](https://godotengine.org/asset-library/asset/1778)
++ [Godot Resource Group](https://godotengine.org/asset-library/asset/2348)
++ [Godot Safe Resource Loader](https://godotengine.org/asset-library/asset/2249)
+
+
+
+
+---
